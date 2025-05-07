@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 [![Felix' GitHub stats](https://github-readme-stats.vercel.app/api?username=fhochleitner&show_icons=true&theme=noctis_minimus&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhochleitner&layout=compact&theme=noctis_minimus&show_icons=true&count_private=true&hide=html,css&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+![Overview](https://raw.githubusercontent.com/fhochleitner/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Langs](https://raw.githubusercontent.com/fhochleitner/github-stats/master/generated/languages.svg#gh-dark-mode-only)
